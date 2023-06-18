@@ -12,3 +12,7 @@ Watch the Entire Playlist here - [.NET on AWS Playlist](https://www.youtube.com/
 ## Working with AWS S3 in ASP.NET Core Web API | .NET 7
 - Blog post - https://codewithmukesh.com/blog/working-with-aws-s3-using-aspnet-core/
 - Youtube Video - https://www.youtube.com/watch?v=2q5jA813ZiI
+
+## Getting Started with AWS Lambda | Serverless Application
+- Blog post - https://codewithmukesh.com/blog/aws-lambda-with-net-6/
+- Youtube Video - https://www.youtube.com/watch?v=2q5jA813ZiI
