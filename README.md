@@ -15,4 +15,4 @@ Watch the Entire Playlist here - [.NET on AWS Playlist](https://www.youtube.com/
 
 ## Getting Started with AWS Lambda | Serverless Application
 - Blog post - https://codewithmukesh.com/blog/aws-lambda-with-net-6/
-- Youtube Video - https://www.youtube.com/watch?v=2q5jA813ZiI
+- Youtube Video - https://www.youtube.com/watch?v=WaZn_8_2RTQ
