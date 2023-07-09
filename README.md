@@ -16,3 +16,7 @@ Watch the Entire Playlist here - [.NET on AWS Playlist](https://www.youtube.com/
 ## Getting Started with AWS Lambda | Serverless Application
 - Blog post - https://codewithmukesh.com/blog/aws-lambda-with-net-6/
 - Youtube Video - https://www.youtube.com/watch?v=WaZn_8_2RTQ
+
+## Getting Started with DynamoDB | Serverless | CRUD in ASP.NET Core
+- Blog post - https://codewithmukesh.com/blog/crud-with-dynamodb-in-aspnet-core/
+- Youtube Video - https://www.youtube.com/watch?v=WaZn_8_2RTQ
