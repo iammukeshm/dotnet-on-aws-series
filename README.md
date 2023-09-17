@@ -19,7 +19,7 @@ Watch the Entire Playlist here - [.NET on AWS Playlist](https://www.youtube.com/
 
 ## Getting Started with DynamoDB | Serverless | CRUD in ASP.NET Core
 - Blog post - https://codewithmukesh.com/blog/crud-with-dynamodb-in-aspnet-core/
-- Youtube Video - https://www.youtube.com/watch?v=WaZn_8_2RTQ
+- Youtube Video - https://www.youtube.com/watch?v=BJYDWMN8taI
 
 ## Amazon API Gateway for .NET Developers | .NET CRUD Application with AWS Lambda & DynamoDB
 - Blog post - https://codewithmukesh.com/blog/amazon-api-gateway-with-dotnet/
