@@ -3,7 +3,7 @@
 
 Watch the Entire Playlist here - [.NET on AWS Playlist](https://www.youtube.com/playlist?list=PLigUNuP4l_bPnDeuk0DlO_Fba4bcIVSNN)
 
-[![Watch the .NET on AWS Playlist](https://codewithmukesh.com/wp-content/uploads/2023/04/dotnet-on-aws-series.png)](https://www.youtube.com/playlist?list=PLigUNuP4l_bPnDeuk0DlO_Fba4bcIVSNN)
+[![Watch the .NET on AWS Playlist](/dotnet-on-aws-series.png)](https://www.youtube.com/playlist?list=PLigUNuP4l_bPnDeuk0DlO_Fba4bcIVSNN)
 
 ## Configuring AWS Credentials for .NET Applications
 - Blog Post - https://codewithmukesh.com/blog/aws-credentials-for-dotnet-applications/
@@ -28,3 +28,7 @@ Watch the Entire Playlist here - [.NET on AWS Playlist](https://www.youtube.com/
 ## How to Secure Amazon API Gateway with Lambda Authorizer?
 - Blog post - https://codewithmukesh.com/blog/aws-lambda-authorizer-in-dotnet/
 - Youtube Video - https://youtu.be/OGpQnNyAYyY
+
+## Serverless ASP.NET Core Web API with AWS Lambda | How to Deploy your ASP.NET Core Web API to AWS Lambda?
+- Blog post - https://codewithmukesh.com/blog/hosting-aspnet-core-web-api-with-aws-lambda/
+- Youtube Video - https://youtu.be/VKGzlXLmFmg
