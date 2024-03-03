@@ -1,0 +1,12 @@
+{
+  "profile": "",
+  "region": "",
+  "configuration": "Release",
+  "function-runtime": "dotnet8",
+  "function-memory-size": 256,
+  "function-timeout": 30,
+  "function-handler": "Products.Api",
+  "function-name": "productapi",
+  "environment-variables": "ASPNETCORE_ENVIRONMENT=Development;SOMETHING_ELSE=SomeValue",
+  "function-url-enable": true
+}
