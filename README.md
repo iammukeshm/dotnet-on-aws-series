@@ -24,3 +24,7 @@ Watch the Entire Playlist here - [.NET on AWS Playlist](https://www.youtube.com/
 ## Amazon API Gateway for .NET Developers | .NET CRUD Application with AWS Lambda & DynamoDB
 - Blog post - https://codewithmukesh.com/blog/amazon-api-gateway-with-dotnet/
 - Youtube Video - https://youtu.be/OGpQnNyAYyY
+
+## How to Secure Amazon API Gateway with Lambda Authorizer?
+- Blog post - https://codewithmukesh.com/blog/aws-lambda-authorizer-in-dotnet/
+- Youtube Video - https://youtu.be/OGpQnNyAYyY
