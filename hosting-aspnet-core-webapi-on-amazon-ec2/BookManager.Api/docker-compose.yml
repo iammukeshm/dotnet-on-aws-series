@@ -1,0 +1,32 @@
+version: "3.8"
+name: book-manager
+
+services:
+  api:
+    container_name: book-manager
+    image: book-manager:latest
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Docker
+      - ASPNETCORE_URLS=http://+:8080
+    ports:
+      - 8080:8080
+    depends_on:
+      postgres:
+        condition: service_healthy
+  postgres:
+    container_name: postgres
+    image: postgres:17-alpine
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=admin
+    ports:
+      - 5432:5432
+    volumes:
+      - postgres-data:/data/db
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U admin"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+volumes:
+  postgres-data:
